@@ -1,0 +1,6 @@
+djangot-taggit-suggestion was written by Frank Wiles <frank@revsys.com> and
+originally part of django-taggit by Alex Gaynor.
+
+The following is a list of much appreciated contributors:
+Alex Gaynor <alex.gaynor@gmail.com> 
+
