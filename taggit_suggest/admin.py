@@ -1,7 +1,7 @@
 from django.contrib import admin
 
 from taggit.admin import TaggedItemInline
-from taggit.contrib.suggest.models import TagKeyword, TagRegex
+from taggit_suggest.models import TagKeyword, TagRegex
 from taggit.models import Tag
 
 
