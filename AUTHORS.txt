@@ -3,4 +3,4 @@ originally part of django-taggit by Alex Gaynor.
 
 The following is a list of much appreciated contributors:
 Alex Gaynor <alex.gaynor@gmail.com> 
-
+Alex Cabrera <alex@policus.com>
