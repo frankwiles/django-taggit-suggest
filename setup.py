@@ -7,7 +7,7 @@ f.close()
 
 setup(
     name='django-taggit-suggest',
-    version="0.2", 
+    version='0.2', 
     description='django-taggit-suggest is an add on for django-taggit to suggest tags for a given piece of text based on keywords, regular expressions, and existing tags.',
     long_description=readme,
     author='Frank Wiles',
