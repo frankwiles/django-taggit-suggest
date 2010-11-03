@@ -1,16 +1,13 @@
 import os
 from setuptools import setup, find_packages
 
-from taggit import VERSION
-
-
 f = open(os.path.join(os.path.dirname(__file__), 'README.txt'))
 readme = f.read()
 f.close()
 
 setup(
     name='django-taggit-suggest',
-    version=".".join(map(str, VERSION)),
+    version="0.2", 
     description='django-taggit-suggest is an add on for django-taggit to suggest tags for a given piece of text based on keywords, regular expressions, and existing tags.',
     long_description=readme,
     author='Frank Wiles',
